@@ -1,0 +1,26 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "curl": "^0.1.4",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "lodash": "^4.17.20",
+    "lodash.update": "^4.10.2",
+    "marked": "^1.2.7",
+    "node-sessionstorage": "^1.0.0",
+    "pug": "^3.0.0",
+    "view": "^1.1.1",
+    "views": "^1.0.2"
+  }
+}
